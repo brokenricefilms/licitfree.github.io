@@ -4,5 +4,14 @@ icon: fas fa-info
 order: 4
 ---
 
+- I'm a IT student with a passion for building highly usable web applications.
+- When not working, I enjoy spending time cycling and reading.
+- My setup: linux, kitty terminal, zsh, tmux, neovim, font JetBrains Mono, theme -paper color & gruvbox-
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+# Connect with me
+
+- Photo: [instagram.com/thuanpham2311/](https://www.instagram.com/thuanpham2311/)
+- Videos: [youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw ](https://www.youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw)
+- Music: [youtube.com/playlist?list=PLiK7Zu7FR9jVJyURcW5nmXveGzJ1DAvf5](https://www.youtube.com/playlist?list=PLiK7Zu7FR9jVJyURcW5nmXveGzJ1DAvf5)
+- Chat: [m.me/thuanpham2311](https://m.me/thuanpham2311)
+- Email: [phamtanthuan2311@gmail.com](mailto:phamtanthuan2311@gmail.com)
