@@ -17,14 +17,14 @@ timezone: Asia/Ho_Chi_Minh
 # --------------------------
 title: thuanpham2311 # the main title
 
-tagline: Student, programmer, homebody, introvert. # it will display as the sub-title
+tagline: Stud2ent, programmer, homebody, introvert. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   thuanpham2311 blog, student at saigon technology university, front-end developer
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://thuanpham2311.github.io/"
 
-author: thuanpham2311 # change to your full name
+author: UMUT # change to your full name
 
 github:
   username: thuanpham2311 # change to your github username
