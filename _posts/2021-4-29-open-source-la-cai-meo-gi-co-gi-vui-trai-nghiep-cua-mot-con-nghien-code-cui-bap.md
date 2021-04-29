@@ -1,5 +1,5 @@
 ---
-title: open-source là cái méo gì? có gì vui? từ trải nghiệm của một con nghiện code cùi bắp
+title: Open-source là cái méo gì? có gì vui? từ trải nghiệm của một con nghiện code cùi bắp
 author: thuanpham2311
 date: 2021-04-29 18:38
 categories: [Blogging]
@@ -42,7 +42,7 @@ Open-source giải quyết những nhu cầu tâm sinh lý của tui như:
 
 Cái này liên quan tới git, mấy chế đừng như tui xài auto commit script với whatthecommit cho nó vui cộng với cronjob, thành quả sau một năm đó là mấy ngàn cái commit message vui vui, tui phải rebase hết project chứ review code lại sao nổi...
 
-**Tóm lại**: đối với suy nghĩ của tui qua những project opensource, chúng ta có thể đống góp cho cộng đồng của nghành mình nói riêng và xã hội nói chung. Những phần mền tui thường dùng thường ngày điều là opensource, terminal app, web dev,... Nếu bạn có thời gian hay có hứng thú với những opensource software ấy, thì có thể ghé qua nha. Tui cũng có thành lập một cái nơi trên github để các đồng chí tụi mình phát triển, thảo luận,... opensource mấy chế có hứng thú có thể ghé qua nha.
+**Tóm lại**: đối với suy nghĩ của tui qua những project opensource, chúng ta có thể đống góp cho cộng đồng của nghành mình nói riêng và xã hội nói chung. Những phần mền tui thường dùng thường ngày thường là opensource, terminal app, web dev,... Nếu bạn có thời gian hay có hứng thú với những opensource software ấy, thì có thể ghé qua nha. Tui cũng có thành lập một cái nơi trên github để các đồng chí tụi mình phát triển, thảo luận,... opensource mấy chế có hứng thú có thể ghé qua nha.
 
 **Ref:**
 - Hội nghiện code trên github: [https://github.com/dsc-stu](https://github.com/dsc-stu)
