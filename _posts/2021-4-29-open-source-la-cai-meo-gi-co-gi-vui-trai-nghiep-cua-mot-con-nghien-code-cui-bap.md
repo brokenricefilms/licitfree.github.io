@@ -4,6 +4,9 @@ author: thuanpham2311
 date: 2021-04-29 18:38
 categories: [Blogging]
 tags: [github, opensource]
+image:
+  src: /assets/img/openSourceEq.jpg
+  alt: opensource =
 ---
 Hello, bà con.
 
