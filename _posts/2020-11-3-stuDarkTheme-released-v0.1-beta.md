@@ -3,6 +3,9 @@ title: stuDarkTheme released v0.1-beta
 author: thuanpham2311
 date: 2020-11-3 20:55:00
 categories: [Blogging]
+image:
+  src: /assets/img/senpaiMeme.jpg
+  alt: senpaiMeme
 tags: [project]
 ---
 

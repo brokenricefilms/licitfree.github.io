@@ -3,7 +3,10 @@ title: Thủ thuật Hack Tiền khi đang học uni
 author: thuanpham2311
 date: 2020-10-14 20:55:00
 categories: [Blogging]
-tags: []
+image:
+  src: /assets/img/senpaiMeme.jpg
+  alt: senpaiMeme
+tags: [money]
 ---
 
 Gần đây mình mò trên mạng thì thấy gói hỗ trợ **Github Student Pack (Free).**

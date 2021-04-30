@@ -3,7 +3,10 @@ title: Chặng đường đến đến với lập trình và làm thế méo n�
 author: thuanpham2311
 date: 2021-04-19 17:07
 categories: [Blogging]
-tags: []
+image:
+  src: /assets/img/programmingMeme.jpg
+  alt: programmingMeme
+tags: [programming]
 ---
 Hello bà con,
 

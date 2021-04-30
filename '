@@ -4,7 +4,7 @@ author: thuanpham2311
 date: 2020-11-5 20:55:00
 categories: [Blogging]
 image:
-  src: /assets/img/animeLifeMeme.jpg
+  src: ../assets/img/animeLifeMeme.jpg
   alt: animeLifeMeme
 tags: [vim]
 ---

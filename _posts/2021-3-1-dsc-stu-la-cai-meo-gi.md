@@ -3,6 +3,9 @@ title: DSC-STU là cái méo gì?
 author: thuanpham2311
 date: 2021-3-1 20:55:00
 categories: [Blogging]
+image:
+  src: /assets/img/DSC-Saigon-Technology-University-colored-horizontal.png
+  alt: dsc-stu
 tags: []
 ---
 

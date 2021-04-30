@@ -3,7 +3,10 @@ title: Lập trình trên điện thoại thế méo nào?
 author: thuanpham2311
 date: 2021-03-27 20:56
 categories: [Blogging]
-tags: []
+image:
+  src: /assets/img/programmingMeme.jpg
+  alt: programmingMeme
+tags: [programming]
 ---
 
 Hello bà con,

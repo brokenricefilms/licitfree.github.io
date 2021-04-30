@@ -3,6 +3,9 @@ title: Làm github profile nhìn điệu đà hơn.
 author: thuanpham2311
 date: 2020-9-26 20:55:00
 categories: [Blogging]
+image:
+  src: /assets/img/senpaiMeme.jpg
+  alt: senpaiMeme
 tags: [github]
 ---
 

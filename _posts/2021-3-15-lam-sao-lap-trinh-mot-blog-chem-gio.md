@@ -3,7 +3,10 @@ title: Làm sao lập trình một blog để chém gió?
 author: thuanpham2311
 date: 2021-03-15 19:12
 categories: [Blogging]
-tags: []
+image:
+  src: /assets/img/blogMeme.jpg
+  alt: blog meme
+tags: [programming]
 ---
 
 Hello lại là chụy bảy đây,

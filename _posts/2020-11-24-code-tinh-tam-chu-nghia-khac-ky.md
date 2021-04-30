@@ -3,6 +3,9 @@ title: Code tịnh tâm và chủ nghĩa khắc kỉ
 author: thuanpham2311
 date: 2020-11-24 20:55:00
 categories: [Blogging]
+image:
+  src: /assets/img/aniemPrayMeme.jpg
+  alt: aniemPrayMeme
 tags: [productive, philosophy]
 ---
 
