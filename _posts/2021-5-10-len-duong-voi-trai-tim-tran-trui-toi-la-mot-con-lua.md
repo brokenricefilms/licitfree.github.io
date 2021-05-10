@@ -2,7 +2,7 @@
 title: lên đường với trái tim trần trụi - tôi là một con lừa
 author: thuanpham2311
 date: 2021-05-10 23:04
-categories: [review]
+categories: [note]
 tags: [book]
 ---
 

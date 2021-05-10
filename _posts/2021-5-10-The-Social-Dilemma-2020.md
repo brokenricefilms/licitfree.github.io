@@ -2,7 +2,7 @@
 title: The Social Dilemma (2020)
 author: thuanpham2311
 date: 2021-05-10 23:45
-categories: [review]
+categories: [note]
 tags: [movie]
 ---
 
