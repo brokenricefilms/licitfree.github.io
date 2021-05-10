@@ -2,7 +2,7 @@
 title: tokyo ghoul
 author: thuanpham2311
 date: 2021-05-10 23:37
-categories: [review]
+categories: [note]
 tags: [anime]
 ---
 
