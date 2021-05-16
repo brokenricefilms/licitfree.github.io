@@ -77,14 +77,14 @@ theme_mode: # [light|dark]
 img_cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/avata.png
+avatar: ./assets/img/avata.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
 
 disqus:
-  comments: false # boolean type, the global switch for posts comments.
-  shortname: "" # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  comments: true # boolean type, the global switch for posts comments.
+  shortname: "thuanpham2311" # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 paginate: 10
 
