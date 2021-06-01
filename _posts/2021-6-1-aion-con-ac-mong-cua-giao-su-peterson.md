@@ -1,7 +1,7 @@
 ---
 title: AION - CƠN ÁC MỘNG CỦA GS PETERSON
 author: thuanpham2311
-date: 2021-05-10 23:58
+date: 2021-06-1 11:15
 categories: [note]
 tags: [psychology, philosophy]
 ---
