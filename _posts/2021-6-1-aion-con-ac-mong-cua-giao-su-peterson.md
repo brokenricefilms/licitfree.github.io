@@ -30,7 +30,7 @@ con người
 
 ### Note
 
-<img src="../assets/img/aion.png" width="40%"></img>
+<img src="/assets/img/aion.png" width="40%"></img>
 
  bản ngã (ego), có hai phần tâm trí và cơ thể,
 
