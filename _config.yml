@@ -17,7 +17,7 @@ timezone: Asia/Ho_Chi_Minh
 # --------------------------
 title: thuanpham2311 # the main title
 
-tagline: Student, programmer, INTJ-A personality. # it will display as the sub-title
+tagline: # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   thuanpham2311 blog, student at saigon technology university, front-end developer
