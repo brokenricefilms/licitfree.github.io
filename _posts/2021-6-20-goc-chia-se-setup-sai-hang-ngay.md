@@ -24,7 +24,7 @@ tags: [linux]
 - Tui dùng nvim + tmux + kitty terminal (nó render mượt hơn, và hỗ trợ mấy cái ligatures, chừng nào thằng alacritty hỗ trợ tính năng đó thì tui chuyển sang alacritty xài)
 - gần đây tui học môn thực hành cấu trúc dữ liệu thì tui cài mssql với dbever để chạy mấy cái lệnh sql các thể loại.
 - cli app mà tui recommend cho mấy ông xài cái `gh` (github cli) nó có nhiều thứ hay ho hơn khi xài cái git gốc, fzf (mấy chế config các thể loại lại một chút lại là okay), starship prompt (làm cho cái prompt của anh em nó fancy hơn).
-- anh em nào thích xem tui config các thể loại thì vô repo dotfiles tui coi thử: https://github.com/thuanpham2311/dotfiles
+- anh em nào thích xem tui config các thể loại thì vô repo dotfiles tui coi thử: <https://github.com/thuanpham2311/dotfiles>
 
 **VIMer Philosophy**
 - chủ yếu tui config các thể loại sao mà dùng chuột ích nhất có thể.
@@ -58,7 +58,7 @@ tags: [linux]
 - tui xài thêm Marinara: Pomodoro® Assistant, kiểu làm việc theo thời gian pomodoro, tui đang reverse pomodoro technique lại để tìm xem tui làm việc theo kiểu nào là ok nhất như 50/10 , 25/5, etc...
 - tui xài Workona Tab Manager, để quản lý mấy cái tab, kiểu khi design cái course storage thì tui mở mấy tab liên quan để khoải bị ngợp trong đống tab, tui cũng xài nó như một cái read/watch later vậy tui lưu nó vô một cái workspace muốn đọc thì tui chỉ cần alt-a di chuyển tới cái workspace read later rồi nó cho chạy tất cả các tab tui bỏ trong workspace đó, còn mấy tab trong workspace vừa xài thì nó ẩn đi.
 
-anh em có thể xem cái screencast tui làm cái blog của tui, để xem qua cái cái setup của tui (video từ tháng 3/2021, nên setup có hơi outdated một chút nha): https://www.youtube.com/watch?v=cUJ_PjfW2SE
+anh em có thể xem cái screencast tui làm cái blog của tui, để xem qua cái cái setup của tui (video từ tháng 3/2021, nên setup có hơi outdated một chút nha): <https://www.youtube.com/watch?v=cUJ_PjfW2SE>
 
 **điện thoại**
 - Trên điện thoại tui xài brave browser luôn, chủ yếu để coi youtube, phim hàn xẻng, anime các thể loại mà không bị quảng cáo, mấy ông nên vô cái cái filter của thằng brave trên điện thoại và bật cái filter của việt nam.
