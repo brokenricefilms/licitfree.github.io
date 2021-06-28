@@ -1,5 +1,5 @@
 ---
-title: `cd` cho dân lười như tui
+title: cd cho dân lười như tui
 author: thuanpham2311
 date: 2021-06-28 20:48
 categories: [Blogging]
