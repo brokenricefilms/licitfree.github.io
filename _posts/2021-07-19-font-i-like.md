@@ -8,8 +8,8 @@ tags: [design]
 
 ## Viaoda Libre
 
-- https://gydient.com/Viaoda-Antiqua
-- https://fonts.google.com/specimen/Viaoda+Libre#standard-styles
+- <https://gydient.com/Viaoda-Antiqua>
+- <https://fonts.google.com/specimen/Viaoda+Libre#standard-styles>
 
 ---
 
