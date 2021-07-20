@@ -2,7 +2,7 @@
 title: Font I like
 author: thuanpham2311
 date: 2021-07-19 22:30
-categories: [blog]
+categories: [Blogging]
 tags: [design]
 ---
 
