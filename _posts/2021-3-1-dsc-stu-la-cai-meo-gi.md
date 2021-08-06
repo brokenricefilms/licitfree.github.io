@@ -6,7 +6,7 @@ categories: [Blogging]
 image:
   src: /assets/img/DSC-Saigon-Technology-University-colored-horizontal.png
   alt: dsc-stu
-tags: []
+tags: [dsc-stu]
 ---
 
 ## DSC-STU là cái méo gì?
