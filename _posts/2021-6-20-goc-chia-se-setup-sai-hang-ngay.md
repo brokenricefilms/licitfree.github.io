@@ -52,7 +52,7 @@ tags: [linux]
 - ublock có mấy cái filter hay ho khác tùy vào mục đích sử dụng của anh em nha.
 - về chuyện đọc tài liệu các thứ bằng tiếng anh thì tui xài google translate extension (anh em bôi đen là nó hiện cửa sổ nhỏ lên, nhanh tiện), nhưng cái google translate thì nó dịch một số từ hơi khó hiểu, thì tui dùng Google Dictionary (by Google) nó giải thích của từ đó ra để cho mình dễ hiểu hơn.
 - bên github thì tui dùng Octotree, nó hiện thêm một cái tree folder các thể loại bên trái,
-- khi lướt youtube thì tui cái channel nào click bait, title các thể loại thì tui dùng uBlacklist, để nó chặt mấy cái video dựa trên video title , channel mà mấy ông chặn, ublacklist cũng chẳng được mấy cái trang web tào lao mà mấy ông search google thấy.
+- khi lướt youtube thì tui cái channel nào click bait, title các thể loại thì tui dùng BlockTube, để nó chặt mấy cái video dựa trên video title , channel mà mấy ông chặn, ublacklist chẳng được mấy cái trang web tào lao mà mấy ông search google thấy.
 - youtube thì dùng thêm cái SponsorBlock for YouTube, YouTube NonStop.
 - khi tui đọc mấy cái blog, etc... mà trang web nó bị béo phì thì tui sài DOM Distiller Reading Mode, để nó hiển thị text mà mình muốn độc thôi, độc được tập trung, không bị làm phiền bởi mấy cái khó chịu.
 - tui xài thêm Marinara: Pomodoro® Assistant, kiểu làm việc theo thời gian pomodoro, tui đang reverse pomodoro technique lại để tìm xem tui làm việc theo kiểu nào là ok nhất như 50/10 , 25/5, etc...
