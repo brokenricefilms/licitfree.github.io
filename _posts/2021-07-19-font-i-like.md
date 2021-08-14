@@ -14,7 +14,6 @@ tags: [design]
 - <https://gydient.com/Viaoda-Antiqua>
 - <https://fonts.google.com/specimen/Viaoda+Libre#standard-styles>
 
-
 ## IBM Plex family
 
 - Robot, technology, strong
