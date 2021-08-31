@@ -1,5 +1,5 @@
 ---
-title: nvim hightly cái đoạn mà mình copy
+title: nvim hightly cái đoạn copy
 author: thuanpham2311
 date: 2021-08-11 15:49
 categories: [Blogging]
