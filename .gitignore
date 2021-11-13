@@ -1,8 +1,11 @@
 # hidden files
 .*
-!.github
+!.git*
+!.editorconfig
+!.nojekyll
+!.travis.yml
 
-# jekyll cache
+# bundler cache
 _site
 vendor
 
