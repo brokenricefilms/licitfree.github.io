@@ -11,9 +11,11 @@ tags: [heathy]
 - Use notion page of course (not indexing to search engine like google, cuz i’m poor)
 - These my notion main page
 
+```
 > The Gargen of Note (publish, the main page you view see when you click the like i provice)
 > Publish (publish note)
 > Private (i don’t want show you, for private infomation stuff)
+```
 
 - that it! hopefully i will have some cool customize stuff while using notion
 - For now trust the basic workflow when i used Vim before
@@ -23,10 +25,12 @@ tags: [heathy]
 - I use nvim and [this script to make my life easy](https://github.com/thuanpham2311/vim-zet)
 - This my folder structure:
     
+```
 > note/
 > personal/
 > publish/
 > README.md
+```
 
 - I use github private repo for sync my note.
 - I use script for copy my `publish/` to this repo
