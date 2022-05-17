@@ -38,7 +38,7 @@ tags: [heathy]
 - I use shortcut `space + n` in vim for new note following `YYYYMMDDhhmmss.md` to my inbox `note/`, after i will move this note to `publish` or `personal`.
 - `[[` in insert mode for linking note
 - Daily I review my inbox note note/(new note will be here), once time a day I use [function `hi`](https://github.com/thuanpham2311/dotfiles/blob/7c82f0f8f6565d343731fe9977792f67370ae7a6/zsh/zshrc#L180)
-- you can see my old notes at github repo by following this link: https://github.com/thuanpham2311/garden
+- you can see my old notes at github repo by following this link: <https://github.com/thuanpham2311/garden>
 
 ---
 
