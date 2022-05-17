@@ -3,9 +3,6 @@ title: why i don’t wear underwear?
 author: thuanpham2311
 date: 2022-5-17 20:55:00
 categories: [Blogging]
-image:
-  src: /assets/img/weeabooMeme.jpeg
-  alt: meme
 tags: [heathy]
 ---
 
