@@ -20,6 +20,4 @@ Một số vấn đề vơi dark theme:
 Nói chung là một ý kiến chủ quan của người xài light theme để code và chứng ám ánh cưởng chế lâu năm, chả có data, paper, nào tài chợ cho cái ý kiến ny.
 
 - All my links: [https://bio.link/thuanpham2311](https://bio.link/thuanpham2311)
-
-DISCLAIMER:
-My stories, lessons, and advice are my personal experience, not reflecting opinions from any organization or company
+- DISCLAIMER: My stories, lessons, and advice are my personal experience, not reflecting opinions from any organization or company

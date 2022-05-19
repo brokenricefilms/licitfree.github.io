@@ -8,7 +8,7 @@ tags: [heathy]
 
 ## mem.ai (new)
 
-- link to the blog: 
+- link to the blog: <https://thuanpham2311.github.io/posts/mem-ai-mot-cai-note-app-ma-minh-muon-tra-phi/>
 
 ## Notion (old)
 
@@ -46,7 +46,6 @@ tags: [heathy]
 
 ---
 
-- Latest update of the blog: [my note taking setup](https://thuanpham2311.notion.site/my-note-taking-setup-4a53b98c657f4977a4109d4c523bbdd4)
 - My notes: [https://thuanpham2311.github.io/l/note](https://thuanpham2311.github.io/l/note)
 - All my links: [https://bio.link/thuanpham2311](https://bio.link/thuanpham2311)
 - when i write English i know this will be fakup, but i lazy to edit. Hopefully you know what i writing. enjoy!
