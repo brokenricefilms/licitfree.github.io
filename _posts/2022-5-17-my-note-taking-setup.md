@@ -6,7 +6,11 @@ categories: [Blogging]
 tags: [heathy]
 ---
 
-## New (using Notion)
+## mem.ai (new)
+
+- link to the blog: 
+
+## Notion (old)
 
 - Use notion page of course (not indexing to search engine like google, cuz i’m poor)
 - These my notion main page
@@ -20,7 +24,7 @@ tags: [heathy]
 - that it! hopefully i will have some cool customize stuff while using notion
 - For now trust the basic workflow when i used Vim before
 
-## Old (using Vim)
+## vim (old)
 
 - I use nvim and [this script to make my life easy](https://github.com/thuanpham2311/vim-zet)
 - This my folder structure:
