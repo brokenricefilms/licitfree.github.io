@@ -1,6 +1,6 @@
 ---
 title: Thủ thuật Hack Tiền khi đang học uni
-author: thuanpham2311
+author: thuanOwa
 date: 2020-10-14 20:55:00
 categories: [Blogging]
 image:

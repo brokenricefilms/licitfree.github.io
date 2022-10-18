@@ -1,6 +1,6 @@
 ---
 title: Gốc chia sẻ setup linux sài hằng ngày
-author: thuanpham2311
+author: thuanOwa
 date: 2021-06-20 15:11
 categories: [Blogging]
 image:
@@ -24,7 +24,7 @@ tags: [linux]
 - Tui dùng nvim + tmux + kitty terminal (nó render mượt hơn, và hỗ trợ mấy cái ligatures, chừng nào thằng alacritty hỗ trợ tính năng đó thì tui chuyển sang alacritty xài)
 - gần đây tui học môn thực hành cấu trúc dữ liệu thì tui cài mssql với dbever để chạy mấy cái lệnh sql các thể loại.
 - cli app mà tui recommend cho mấy ông xài cái `gh` (github cli) nó có nhiều thứ hay ho hơn khi xài cái git gốc, fzf (mấy chế config các thể loại lại một chút lại là okay), starship prompt (làm cho cái prompt của anh em nó fancy hơn).
-- anh em nào thích xem tui config các thể loại thì vô repo dotfiles tui coi thử: <https://github.com/thuanpham2311/dotfiles>
+- anh em nào thích xem tui config các thể loại thì vô repo dotfiles tui coi thử: <https://github.com/thuanOwa/dotfiles>
 
 **VIMer Philosophy**
 - chủ yếu tui config các thể loại sao mà dùng chuột ích nhất có thể.

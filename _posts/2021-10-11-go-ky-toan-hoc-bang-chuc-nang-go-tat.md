@@ -1,6 +1,6 @@
 ---
 title: Gõ ký tự toán học ∑ bằng chức năng gõ tắt
-author: thuanpham2311
+author: thuanOwa
 date: 2021-10-11 22:42
 categories: [Blogging]
 tags: [math]
@@ -42,7 +42,7 @@ p..:π
 
 **Reference**
 
-- Thông tin về tui: <https://bio.link/thuanpham2311>
+- Thông tin về tui: <https://bio.link/thuanOwa>
 
 **DISCLAIMER**
 
@@ -54,4 +54,4 @@ Những câu chuyện, bài học và lời khuyên của tui là những trải
 [^2]: http://xahlee.info/
 [^3]: https://github.com/emacsmirror/xah-math-input/blob/master/xah-math-input.el
 [^4]: http://xahlee.info/M/index.html
-[^5]: https://github.com/thuanpham2311/ibus-bamboo-math
+[^5]: https://github.com/thuanOwa/ibus-bamboo-math

@@ -1,6 +1,6 @@
 ---
 title: why i don’t wear underwear?
-author: thuanpham2311
+author: thuanOwa
 date: 2022-5-17 9:0:00
 categories: [Blogging]
 tags: [heathy]
@@ -24,9 +24,9 @@ tags: [heathy]
 
 ---
 
-- Latest update of the blog: <https://thuanpham2311.notion.site/why-i-don-t-wear-underwear-61a70022e6d84afb9e35cb5011e90373>
-- My notes: <https://thuanpham2311.github.io/l/note>
-- All my links: <https://bio.link/thuanpham2311>
+- Latest update of the blog: <https://thuanOwa.notion.site/why-i-don-t-wear-underwear-61a70022e6d84afb9e35cb5011e90373>
+- My notes: <https://thuanOwa.github.io/l/note>
+- All my links: <https://bio.link/thuanOwa>
 - when i write English i know this will be fakup, but i lazy to edit. Hopefully you know what i writing. enjoy!
 
 DISCLAIMER:

@@ -1,6 +1,6 @@
 ---
 title: mem.ai một cái note app mà mình muốn trả phí
-author: thuanpham2311
+author: thuanOwa
 date: 2022-5-22 11:0:00
 categories: [Blogging]
 tags: [productive, note-taking]
@@ -34,5 +34,5 @@ Dennis Xu
 
 Mem: Eliminate note taking friction - YouTube - Google Ch... (source: http://youtube.com/watch?v=YUpBaQ6wPVQ)
 
-- All my links: https://bio.link/thuanpham2311
+- All my links: https://bio.link/thuanOwa
 - DISCLAIMER: My stories, lessons, and advice are my personal experience, not reflecting opinions from any organization or company

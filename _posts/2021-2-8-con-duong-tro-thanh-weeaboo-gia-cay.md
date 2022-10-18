@@ -1,6 +1,6 @@
 ---
 title: Chặng hành trình chở thành weeaboo giả cày
-author: thuanpham2311
+author: thuanOwa
 date: 2021-2-8 20:55:00
 categories: [Blogging]
 image:

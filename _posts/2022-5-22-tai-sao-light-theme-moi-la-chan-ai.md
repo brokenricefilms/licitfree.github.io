@@ -1,6 +1,6 @@
 ---
 title: tại sao light theme mới là chân ái?
-author: thuanpham2311
+author: thuanOwa
 date: 2022-5-22 5:0:00
 categories: [Blogging]
 tags: [heathy]
@@ -19,5 +19,5 @@ Một số vấn đề vơi dark theme:
 
 Nói chung là một ý kiến chủ quan của người xài light theme để code và chứng ám ánh cưởng chế lâu năm, chả có data, paper, nào tài chợ cho cái ý kiến ny.
 
-- All my links: [https://bio.link/thuanpham2311](https://bio.link/thuanpham2311)
+- All my links: [https://bio.link/thuanOwa](https://bio.link/thuanOwa)
 - DISCLAIMER: My stories, lessons, and advice are my personal experience, not reflecting opinions from any organization or company

@@ -1,6 +1,6 @@
 ---
 title: Code tịnh tâm và chủ nghĩa khắc kỉ
-author: thuanpham2311
+author: thuanOwa
 date: 2020-11-24 20:55:00
 categories: [Blogging]
 image:

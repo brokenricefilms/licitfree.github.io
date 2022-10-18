@@ -1,6 +1,6 @@
 ---
 title: Chặng đường đến đến với lập trình và làm thế méo nào để học nó?
-author: thuanpham2311
+author: thuanOwa
 date: 2021-04-19 17:07
 categories: [Blogging]
 image:
@@ -90,8 +90,8 @@ Bye bye mấy chế.
 
 **Ref:**
 
-- Github của tui: [http://github.com/thuanpham2311](http://github.com/thuanpham2311)
-- Đọc thêm mấy cái xàm xí của tui: [https://thuanpham2311.github.io](https://thuanpham2311.github.io)
+- Github của tui: [http://github.com/thuanOwa](http://github.com/thuanOwa)
+- Đọc thêm mấy cái xàm xí của tui: [https://thuanOwa.github.io](https://thuanOwa.github.io)
 
 ---
 

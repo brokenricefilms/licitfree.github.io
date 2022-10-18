@@ -18,31 +18,31 @@ timezone: Asia/Ho_Chi_Minh
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: thuanpham2311 # the main title
+title: thuanOwa # the main title
 
 tagline: 👋 Hi, I'm a random nerd, finding something fun to do every day. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  thuanpham2311 blog, student at saigon technology university, front-end developer
+  thuanOwa blog, student at saigon technology university, front-end developer
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://thuanpham2311.github.io/"
+url: "https://thuanOwa.github.io/"
 
 github:
-  username: thuanpham2311 # change to your github username
+  username: thuanOwa # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: thuanpham2311 # it will shows as the copyright owner in Footer
+  name: thuanOwa # it will shows as the copyright owner in Footer
   email: phamtanthuan2311@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/thuanpham2311       # change to your github homepage
+    - https://github.com/thuanOwa       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/thuanpham2311
+    - https://www.linkedin.com/in/thuanOwa
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 

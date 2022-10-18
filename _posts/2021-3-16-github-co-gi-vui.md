@@ -1,6 +1,6 @@
 ---
 title: Github có gì vui?
-author: thuanpham2311
+author: thuanOwa
 date: 2021-03-16 16:42
 categories: [Blogging]
 image:

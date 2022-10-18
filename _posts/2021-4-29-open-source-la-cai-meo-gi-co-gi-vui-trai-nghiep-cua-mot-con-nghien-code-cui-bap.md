@@ -1,6 +1,6 @@
 ---
 title: Open-source là cái méo gì? có gì vui? từ trải nghiệm của một con nghiện code cùi bắp
-author: thuanpham2311
+author: thuanOwa
 date: 2021-04-29 18:38
 categories: [Blogging]
 tags: [github, opensource]
@@ -52,8 +52,8 @@ Cái này liên quan tới git, mấy chế đừng như tui xài auto commit sc
 
 **Ref:**
 
-- Github của tui: [http://github.com/thuanpham2311](http://github.com/thuanpham2311)
-- Đọc thêm mấy cái xàm xí của tui: [https://thuanpham2311.github.io](https://thuanpham2311.github.io)
+- Github của tui: [http://github.com/thuanOwa](http://github.com/thuanOwa)
+- Đọc thêm mấy cái xàm xí của tui: [https://thuanOwa.github.io](https://thuanOwa.github.io)
 
 ---
 

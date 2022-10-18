@@ -1,6 +1,6 @@
 ---
 title: Làm github profile nhìn điệu đà hơn.
-author: thuanpham2311
+author: thuanOwa
 date: 2020-9-26 20:55:00
 categories: [Blogging]
 image:
@@ -17,7 +17,7 @@ Nói chung tính năng này github sẽ đem cái readme ra ngoài github profil
 
 Tha hồ mà custom cái github profile của mình (trước đây chỉ pin được mấy cái repository, với mấy cái activity này nọ).
 
-Anh em có thể xem thử cái github profile của tui https://github.com/thuanpham2311
+Anh em có thể xem thử cái github profile của tui https://github.com/thuanOwa
 
 Tui thấy nghịch cũng vui nên giới thiệu cho các sư huynh.
 

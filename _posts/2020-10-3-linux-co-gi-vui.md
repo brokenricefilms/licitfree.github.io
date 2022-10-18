@@ -1,6 +1,6 @@
 ---
 title: Linux có gì vui?
-author: thuanpham2311
+author: thuanOwa
 date: 2020-10-3 20:55:00
 categories: [Blogging]
 image:

@@ -1,6 +1,6 @@
 ---
 title: Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày
-author: thuanpham2311
+author: thuanOwa
 date: 2021-09-18 00:59
 categories: [Blogging]
 tags: [github, open-source]
@@ -32,7 +32,7 @@ Tui kiểu thích khoe bạn gái các kiểu nên kiếm cái chỗ để khoe,
 
 Ngày 29 tháng 7 năm 2019 là lần push code đầu tiêu của tui lên github, tính ra tới bây giờ 18 tháng 9 năm 2021 thì ra cái ngày mà mấy bạn độc trên cái title.
 
-Mấy đồng chí có thể vô cái github của tui <https://github.com/thuanpham2311> để check cái graph xanh lè ở bên dưới, sẻ biết được ngày kỷ niệm giữ tui với bé mèo.
+Mấy đồng chí có thể vô cái github của tui <https://github.com/thuanOwa> để check cái graph xanh lè ở bên dưới, sẻ biết được ngày kỷ niệm giữ tui với bé mèo.
 
 Okay dàn harem của tui đủ bộ rùi (xạo đó ahihi), thì tản mạn nãy giờ đủ rùi sang chủ đề chính cái cuộc tình của tui với hàng harem của tui như thế nào.
 
@@ -52,7 +52,7 @@ Okay chốt lại thì hàng ngày thì tui vẫn nắm tai bé mèo dạo chơi
 
 **Reference**
 
-- Thông tin về tui: <https://bio.link/thuanpham2311>
+- Thông tin về tui: <https://bio.link/thuanOwa>
 
 ---
 

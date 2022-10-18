@@ -1,6 +1,6 @@
 ---
 title: stuDarkTheme released v0.1-beta
-author: thuanpham2311
+author: thuanOwa
 date: 2020-11-3 20:55:00
 categories: [Blogging]
 image:

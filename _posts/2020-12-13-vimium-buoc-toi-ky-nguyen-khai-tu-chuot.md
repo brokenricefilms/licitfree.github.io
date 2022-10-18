@@ -1,6 +1,6 @@
 ---
 title: Vimium bước tới kỷ nguyên khai tử chuột.
-author: thuanpham2311
+author: thuanOwa
 date: 2020-12-13 20:55:00
 categories: [Blogging]
 image:
@@ -42,7 +42,7 @@ Anh em có thể xem readme của vimium trên github để đọc key binding h
 ## **VIMIUM CÓ GÌ VUI?**
 
 1. khai tử chuột - touchpad: khi anh em sử dụng chỉ bàn phím thì tốc độ lướt web với tương tác với web sẽ nhanh hơn rất nhiều. Khi anh em quen có thể áp dụng nó với shortcut của youtube để lướt youtube mà không đụng tới chuột
-2. Vimium có khả năng tùy biến khá là cao, anh em có thể remap lại key custom theme các thể loại.30s quảng cáo: tui thích làm mấy cái fancy nên tui custom luôn cho em nó một bộ dark theme, anh em có thể ghé qua cái github repository của tui xem thử nha.https://github.com/thuanpham2311/vimium_dark_theme
+2. Vimium có khả năng tùy biến khá là cao, anh em có thể remap lại key custom theme các thể loại.30s quảng cáo: tui thích làm mấy cái fancy nên tui custom luôn cho em nó một bộ dark theme, anh em có thể ghé qua cái github repository của tui xem thử nha.https://github.com/thuanOwa/vimium_dark_theme
 3. Trở nên cool gầu hơn: cũng giống như vim, anh em sài bàn phím gõ liên tục mà không sài chuột thì sẽ giống với mấy cảnh trong mấy phim hacker các thể loại.
 
 ## **NHỮNG ĐIỀU HẠN CHẾ**
