@@ -1,6 +1,3 @@
-**My blog: https://thuanOwa.github.io/**
+**My blog: https://blog.thuanOwa.com**
 
-```bash
-bundle
-bundle exec jekyll s
-```
+Old blog using jekyll: https://github.com/thuanOwa/thuanOwa.github.io/releases/tag/v1.1.1
