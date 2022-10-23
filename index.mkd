@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: https://blog.thuanowa.com
+redirect_url: https://bio.link/thuanowa
 ---
