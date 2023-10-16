@@ -40,7 +40,7 @@ export const menuLinks: Array<{ title: string; path: string }> = [
 	},
 	{
 		title: "Use",
-		path: "https://use.thuanowa.com/",
+		path: "https://thuanowa.github.io/use",
 	},
 	{
 		title: "Studios",
