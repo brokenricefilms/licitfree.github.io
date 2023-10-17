@@ -2,15 +2,15 @@ import type { SiteConfig } from "@/data/types";
 
 export const siteConfig: SiteConfig = {
 	// Used as both a meta property (src/components/BaseHead.astro L:31 + L:49) & the generated satori png (src/pages/og-image/[slug].png.ts)
-	author: "Thuan Pham",
+	author: "Ông Edit",
 	// Meta property used to construct the meta title property, found in src/components/BaseHead.astro L:11
-	title: "thuanowa",
+	title: "Ông Edit",
 	// Meta property used as the default description meta property
-	description: "thuanowa blog links website",
+	description: "Ông này edit video",
 	// HTML lang property, found in src/layouts/Base.astro L:18
-	lang: "en-GB",
+	lang: "vi",
 	// Meta property, found in src/components/BaseHead.astro L:42
-	ogLocale: "en_GB",
+	ogLocale: "vi",
 	// Date.prototype.toLocaleDateString() parameters, found in src/utils/date.ts.
 	date: {
 		locale: "en-GB",
@@ -40,7 +40,7 @@ export const menuLinks: Array<{ title: string; path: string }> = [
 	},
 	{
 		title: "Use",
-		path: "https://thuanowa.github.io/use",
+		path: "https://ongedit.github.io/use",
 	},
 	{
 		title: "Studios",

@@ -9,33 +9,33 @@ const allPosts = await getAllPosts();
 const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
 
 import { Image } from "astro:assets";
-import thuanowaFace from "/public/thuanowa-face.png";
+import ongeditFace from "/public/ongedit-face.png";
 ---
 <PageLayout meta={{ title: "Home" }}>
 	<section>
 		<h1 class="title mb-6">Yo!</h1>
 		<div class="space-y-6">
 			<Image
-				src={thuanowaFace}
+				src={ongeditFace}
 				width={250}
 				format={"png"}
-				alt="thuan pham aka thuanowa face"
+				alt="thuan pham aka Ông Edit face"
 				loading="eager"
 			/>
 			<SocialList />
 			<ul>
 				<strong>Bio</strong>
 				<li>
-					Dead: <a href="https://thuanowa.github.io/last-will" class="cactus-link inline-block"
-						>thuanowa.github.io/last-will</a
+					Dead: <a href="https://ongedit.github.io/last-will" class="cactus-link inline-block"
+						>ongedit.github.io/last-will</a
 					>
 				</li>
 				<li>2023+: Finding the video editor position</li>
 				<li>2019-2023: Studing in Saigon Technology University</li>
 				<li>
 					2018: Start make making video on youtube <a
-						href="https://www.youtube.com/@thuanowa"
-						class="cactus-link inline-block">https://www.youtube.com/@thuanowa</a
+						href="https://www.youtube.com/@ongedit"
+						class="cactus-link inline-block">https://www.youtube.com/@ongedit</a
 					>
 				</li>
 				<li>
@@ -50,7 +50,7 @@ import thuanowaFace from "/public/thuanowa-face.png";
 		<ul class="space-y-4 sm:space-y-2">
 			<li>
 				<a
-					href="https://thuanowa.github.io/payme"
+					href="https://ongedit.github.io/payme"
 					target="_blank"
 					rel="noopener noreferrer"
 					class="cactus-link inline-block"
@@ -59,7 +59,7 @@ import thuanowaFace from "/public/thuanowa-face.png";
 			</li>
 			<li>
 				<a
-					href="https://thuanowa.github.io/resume"
+					href="https://ongedit.github.io/resume"
 					target="_blank"
 					rel="noopener noreferrer"
 					class="cactus-link inline-block"
@@ -71,7 +71,7 @@ import thuanowaFace from "/public/thuanowa-face.png";
 			</li>
 			<li>
  				<a
-					href="https://thuanowa.github.io/photos"
+					href="https://ongedit.github.io/photos"
 					target="_blank"
 					rel="noopener noreferrer"
 					class="cactus-link inline-block"
@@ -80,7 +80,7 @@ import thuanowaFace from "/public/thuanowa-face.png";
 			</li>
 			<li>
 				<a
-					href="https://thuanowa.github.io/music"
+					href="https://ongedit.github.io/music"
 					target="_blank"
 					rel="noopener noreferrer"
 					class="cactus-link inline-block"
@@ -89,7 +89,7 @@ import thuanowaFace from "/public/thuanowa-face.png";
 			</li>
 			<li>
 				<a
-					href="https://m.me/thuanowa"
+					href="https://m.me/ongedit"
 					target="_blank"
 					rel="noopener noreferrer"
 					class="cactus-link inline-block"

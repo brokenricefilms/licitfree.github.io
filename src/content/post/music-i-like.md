@@ -13,4 +13,4 @@ tags: ["English", "Health"]
   - [B Ray](https://youtu.be/GDsZvdZ-7oA)
   - [Đen Vâu](https://youtu.be/IbC8kOidE90)
 
-[Music playlist](l.thuanowa.com/music-playlist)
+[Music playlist](l.ongedit.com/music-playlist)
