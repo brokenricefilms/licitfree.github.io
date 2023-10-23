@@ -31,10 +31,6 @@ export const siteConfig: SiteConfig = {
 // Used to generate links in both the Header & Footer.
 export const menuLinks: Array<{ title: string; path: string }> = [
 	{
-		title: "Home",
-		path: "/",
-	},
-	{
 		title: "Posts",
 		path: "/posts/",
 	},
@@ -43,7 +39,7 @@ export const menuLinks: Array<{ title: string; path: string }> = [
 		path: "https://ongedit.github.io/use",
 	},
 	{
-		title: "Studios",
-		path: "https://youtube.com/@owastudios",
+		title: "Buy Me a Coffee",
+		path: "https://ko-fi.com/ongedit",
 	},
 ];
