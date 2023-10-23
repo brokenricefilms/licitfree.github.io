@@ -5,6 +5,8 @@ description: "sự khốn khổ"
 tags: ["vietnamese", "movie"]
 ---
 
+![](https://github.com/ongedit/garden/raw/main/my%20mister%20(2018)%20poster.png)
+
 Một cô gái 22 năm sống không ổn như đã được tái sinh 30 000 lần, một ông chú đang sống trong cuộc sống cũng đáng thương như cô gái ấy
 
 Hai con người này gặp nhau,
@@ -32,3 +34,7 @@ Họ cố gắn, họ tìm kiếm họ đáng mất hi vọng và họ tìm ra h
 Nỗi đau, nỗi đau ấy?
 
 Và vài lời cũng chẳng được gọi là fan, cũng chỉ là một người yêu thích âm nhạc và những bộ phim của nữ diễn viên chính IU, có lẽ đây là bộ phim hàn đáng nhớ nhất của tôi và sự trình diễn tuyệt vời của cô ấy.
+
+---
+
+Diễn viên: [IU](/posts/iu)
