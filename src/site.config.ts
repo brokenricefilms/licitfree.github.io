@@ -39,6 +39,10 @@ export const menuLinks: Array<{ title: string; path: string }> = [
 		path: "https://ongedit.github.io/use",
 	},
 	{
+		title: "Portfolio",
+		path: "https://ongedit.github.io/portfolio",
+	},
+	{
 		title: "Buy Me a Coffee",
 		path: "https://ko-fi.com/ongedit",
 	},
