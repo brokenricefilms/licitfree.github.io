@@ -2,11 +2,12 @@
 import PageLayout from "@/layouts/Base";
 import PostPreview from "@/components/blog/PostPreview";
 import SocialList from "@/components/SocialList";
-import { getAllPosts, sortMDByDate } from "@/utils";
+import { getAllPosts, sortMDByDate, getUniqueTagsWithCount } from "@/utils";
 
 const MAX_POSTS = 999;
 const allPosts = await getAllPosts();
 const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
+const allTags = getUniqueTagsWithCount(allPosts);
 
 import { Image } from "astro:assets";
 import ongeditFace from "/public/ongedit-face.png";
@@ -103,6 +104,28 @@ import ongeditFace from "/public/ongedit-face.png";
 			</li>
 		</ul>
 	</section>
+	<section aria-label="Blog post list" class="mt-16">
+		<h2 class="title mb-4 text-xl">Tags</h2>
+	<ul class="space-y-4">
+		{
+			allTags.map(([tag, val]) => (
+				<li class="flex items-center gap-x-2">
+					<a
+						class="cactus-link inline-block"
+						href={`/tags/${tag}/`}
+						title={`View posts with the tag: ${tag}`}
+						rel="prefetch"
+					>
+						&#35;{tag}
+					</a>
+					<span class="inline-block">
+						- {val} Post{val > 1 && "s"}
+					</span>
+				</li>
+			))
+		}
+	</ul>
+  </section>
 	<section aria-label="Blog post list" class="mt-16">
 		<h2 class="title mb-4 text-xl">Posts</h2>
 		<ul class="space-y-4 sm:space-y-2">
