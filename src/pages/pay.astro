@@ -1,0 +1,49 @@
+---
+import { Image } from "astro:assets";
+
+import PageLayout from "@/layouts/Base";
+
+const meta = {
+	title: "Pay",
+	description:
+		"transfer monney to thuan pham aka thuanowa, support, donate, paypal, timo bank, buy the coffee for thuan, ongedit",
+};
+---
+
+<PageLayout meta={meta}>
+	<div class="space-y-6">
+		<h1 class="title">Pay</h1>
+		<iframe
+			id="kofiframe"
+			src="https://ko-fi.com/ongedit/?hidefeed=true&widget=true&embed=true&preview=true"
+			style="border:none;width:100%;padding:4px;background:#fafafa;"
+			height="712"
+			title="ongedit"></iframe>
+		<h2 class="title mb-4 text-2xl">Paypal</h2>
+		<a
+			class="cactus-link inline-block"
+			target="_blank"
+			rel="noopener"
+			href="https://paypal.me/ongedit">paypal.me/ongedit</a
+		>
+		<h2 class="title mb-4 text-2xl">Bank</h2>
+		<h3 class="title mb-4 text-xl">Domestis (Vietnam)</h3>
+		<ul>
+			<li>Account number: 9017041176921</li>
+			<li>Account name: Pham Tan Thuan</li>
+			<li>Bank name: Viet Capital Bank Ngân hàng TMCP Bản Việt</li>
+			<li>Branch: Hồ Chí Minh</li>
+			<li>City/ Province: Hồ Chí Minh</li>
+		</ul>
+		<h3 class="title mb-4 text-xl">Oversea</h3>
+		<ul>
+			<li>Account number: 9017041176921</li>
+			<li>Account name: Pham Tan Thuan</li>
+			<li>Bank name: VIET CAPITAL COMMERCIAL JOINT STOCK BANK</li>
+			<li>
+				Bank Address: 412 Nguyen Thi Minh Khai Street, Ward 5, District 3, Ho Chi Minh City, Vietnam
+			</li>
+			<li>SWIFT code: VCBCVNVX</li>
+		</ul>
+	</div>
+</PageLayout>
