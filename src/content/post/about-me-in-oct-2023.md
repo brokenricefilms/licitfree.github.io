@@ -5,16 +5,16 @@ description: "It's will be memorable moment"
 tags: ["English", "life"]
 ---
 
-"Ông Edit" meaning this guys edit in vietnamese also you can type "Ong edit"
+"Ông Edit" means this guy edits in Vietnamese also you can type "Ong edit"
 
 My name is Thuan
 
-Day to day i just sitting in the front of my computer, edit, watch stuff. Sometime I go out to smell human or touch grass
+Day to day I sit in front of my computer, edit, and watch stuff. Sometimes I go out to smell humans or touch grass
 
-I had background from Front-end Dev aka i know how to build the website but i think most of the time this skill help me build stuff i want
+I have a background in Front-end Dev aka I know how to build a website but I think most of the time this skill helps me build stuff I want
 
-In the Sep 2023 i just think again well i kinda boring, i don't level up the programming skill i know how to do that, but i didn't do. So again 4 year ago i in high school i had option to do the programming or design. I take the programming maybe this time like want to be the mr robot :D, but thought year to year i did see my-self improve much in programming
+In Sep 2023 I thought again well i am kinda boring, i don't level up the programming skill i know how to do that, but i didn't. So again 4 years ago i in high school i had the option to do programming or design. I take the programming maybe this time like want to be the Mr. Robot :D, but thought year to year i did see myself improve much in programming
 
-So i take a switch to video editing, again i didn't do anything relate much to video editing in my uni life so yeah keep going hopefully i can enjoy, level up, and live the life i want.
+So i took a switch to video editing, again i didn't do anything related to video editing in my uni life so yeah keep going hopefully i can enjoy, level up, and live the life i want.
 
 Freedom
