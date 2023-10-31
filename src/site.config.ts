@@ -43,6 +43,6 @@ export const menuLinks: Array<{ title: string; path: string }> = [
 	},
 	{
 		title: "Buy Me a Coffee",
-		path: "https://ko-fi.com/ongedit",
+		path: "https://ongedit.github.io/pay",
 	},
 ];
