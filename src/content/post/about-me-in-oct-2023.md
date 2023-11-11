@@ -1,6 +1,7 @@
 ---
 title: About me in October 2023
 publishDate: "31 October 2023"
+updatedDate: "11 November 2023"
 description: "It's will be memorable moment"
 tags: ["English", "life"]
 ---
