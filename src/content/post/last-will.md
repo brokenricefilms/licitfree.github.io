@@ -1,9 +1,12 @@
 ---
 title: Last will | Di chúc
 publishDate: "27 October 2023"
+updatedDate: "11 November 2023"
 description: "Khi tôi chết hãy đem thân xác tôi hòa vào đất mẹ"
 tags: ["English", "vietnamese"]
 ---
+
+> I lazy to translate to English. So use google translate this guys
 
 Tài sản, nếu những người hàng thừa kế thứ nhất không cần tài sản của tôi
 hoặc không có người hàng thừa kế thứ nhất thì tôi sẽ quyên góp toàn bộ tài
