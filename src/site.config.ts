@@ -6,7 +6,7 @@ export const siteConfig: SiteConfig = {
 	// Meta property used to construct the meta title property, found in src/components/BaseHead.astro L:11
 	title: "Ông Edit",
 	// Meta property used as the default description meta property
-	description: "Ông edit video",
+	description: "Ông edit video, ong edit, thuan pham",
 	// HTML lang property, found in src/layouts/Base.astro L:18
 	lang: "vi",
 	// Meta property, found in src/components/BaseHead.astro L:42
