@@ -1,8 +1,7 @@
 ---
 title: "chế editor nothing phone channel làm paper layer qué okay"
 description: ""
-publishDate: "04 July 2023"
-updatedDate: "14 August 2023"
+publishDate: "15 November 2023"
 coverImage:
   src: "./cover.jpg"
   alt: "nothing phone paper layer"
