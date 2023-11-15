@@ -35,7 +35,7 @@ export const menuLinks: Array<{ title: string; path: string }> = [
 	},
 	{
 		title: "Use",
-		path: "https://ongedit.github.io/use",
+		path: "/tags/what%20i%20use/",
 	},
 	{
 		title: "Portfolio",
