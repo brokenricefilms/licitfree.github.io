@@ -20,18 +20,6 @@ dependencies:
   '@astrojs/tailwind':
     specifier: ^5.0.2
     version: 5.0.2(astro@3.4.0)(tailwindcss@3.3.5)
-  '@fontsource-variable/jetbrains-mono':
-    specifier: ^5.0.18
-    version: 5.0.18
-  '@fontsource/borel':
-    specifier: ^5.0.3
-    version: 5.0.3
-  '@fontsource/itim':
-    specifier: ^5.0.17
-    version: 5.0.17
-  '@fontsource/mynerve':
-    specifier: ^5.0.17
-    version: 5.0.17
   astro:
     specifier: 3.4.0
     version: 3.4.0(typescript@5.2.2)
@@ -1039,22 +1027,6 @@ packages:
     resolution: {integrity: sha512-Kn7K8dx/5U6+cT1yEhpX1w4PCSg0M+XyRILPgvwcEBjerFWCwQj5sbr3/VmxqV0JGHCBCzyd6LxypEuehypY1w==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
     dev: true
-
-  /@fontsource-variable/jetbrains-mono@5.0.18:
-    resolution: {integrity: sha512-8qyD5zmaB4X9EQsGViwHGcQPjOGsHGxyJ+DuAxkXVyP+/Mzb5B9kYuG8+8a3vX/y0mZ81CUpbUWp0ik89c3dQw==}
-    dev: false
-
-  /@fontsource/borel@5.0.3:
-    resolution: {integrity: sha512-5nM5GjLgJqC8M6o0BxWpmdQzD8luKO+wUf77rSLi6c9/oAMHvSG9ffOUAeAT5bOMkuz+vS/+H8he9xQQZPgzbQ==}
-    dev: false
-
-  /@fontsource/itim@5.0.17:
-    resolution: {integrity: sha512-tmrrd0995bNSLRpyUDcBVhCfIT3EmUH7+LLpAMP6LX3BzC1FnHBJhKLUMUpDW6Z4TQmSmXKMmuJCS92YtupZOg==}
-    dev: false
-
-  /@fontsource/mynerve@5.0.17:
-    resolution: {integrity: sha512-ozUJhVrni9JoIXD+5/EJXKYErgmhZhhwiT+YBbmFA+8TNap+L1sfkmvLL5/N5hPGJ76Yo9Fdrdd59GZ8up8VYw==}
-    dev: false
 
   /@humanwhocodes/config-array@0.11.13:
     resolution: {integrity: sha512-JSBDMiDKSzQVngfRjOdFXgFfklaXI4K9nLF49Auh21lmBWRLIK3+xTErTWD4KU54pb6coM6ESE7Awz/FNU3zgQ==}
