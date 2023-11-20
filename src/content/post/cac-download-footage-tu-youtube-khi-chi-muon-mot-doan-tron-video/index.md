@@ -3,9 +3,6 @@ title: Cách download footage từ youtube khi chỉ muốn một đoạn trong 
 description: ""
 publishDate: "17 Nov 2023"
 tags: ["editing"]
-coverImage:
-  src: "./cover.svg"
-  alt: "ong edit cover"
 ---
 
 Mấy chế xài chức năng clip trên youtube

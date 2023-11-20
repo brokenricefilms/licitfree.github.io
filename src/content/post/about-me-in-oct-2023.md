@@ -6,8 +6,6 @@ description: "It's will be memorable moment"
 tags: ["English", "life"]
 ---
 
-"Ông Edit" means this guy edits in Vietnamese also you can type "Ong edit"
-
 My name is Thuan
 
 I sit in front of my computer daily, edit, and watch stuff. Sometimes I go out to smell humans or touch grass
