@@ -10,17 +10,17 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
 const allTags = getUniqueTagsWithCount(allPosts);
 
 import { Image } from "astro:assets";
-import licitfreeFace from "/public/licitfree-face.png";
+import thuanFace from "/public/thuan-face.png";
 ---
 <PageLayout meta={{ title: "Home" }}>
 	<section>
 		<h1 class="title mb-6">Yo!</h1>
 		<div class="space-y-6">
 			<Image
-				src={licitfreeFace}
+				src={thuanFace}
 				width={250}
 				format={"png"}
-				alt="thuan pham aka Ông Edit face"
+				alt="thuan pham aka licit free"
 				loading="eager"
 			/>
 			<SocialList />
