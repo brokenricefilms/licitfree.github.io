@@ -5,7 +5,7 @@ description: ""
 tags: ["Vietnamese", "movie"]
 ---
 
-![](https://github.com/ongedit/garden/raw/main/Army%20of%20Thieves%20(2021)%20poster.png)
+![](https://github.com/licitfree/garden/raw/main/Army%20of%20Thieves%20(2021)%20poster.png)
 
 [ông anh đam mê với chuyện mở kết sắt](/posts/ong-anh-dam-me-voi-chuyen-mo-ket-sat/) có cuộc sống lập đi lập lại, và khi cơ hội tới thông qua việc làm youtube nói chuyện đam mê mở két sắt, gia nhập vào một cái nhóm cướp xuyên biên giới
 làm một cái gì đó mới → hứng hú được thử sức mình với những két sắt huyền thoại có thật

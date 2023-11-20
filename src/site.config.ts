@@ -23,7 +23,7 @@ export const siteConfig: SiteConfig = {
 	// Include view-transitions: https://docs.astro.build/en/guides/view-transitions/
 	includeViewTransitions: false,
 	webmentions: {
-		link: "https://webmention.io/ongedit.github.io/webmention",
+		link: "https://webmention.io/licitfree.github.io/webmention",
 	},
 };
 
@@ -39,10 +39,10 @@ export const menuLinks: Array<{ title: string; path: string }> = [
 	},
 	{
 		title: "Portfolio",
-		path: "https://ongedit.github.io/portfolio",
+		path: "https://licitfree.github.io/portfolio",
 	},
 	{
 		title: "Buy Me a Coffee",
-		path: "https://ongedit.github.io/pay",
+		path: "https://licitfree.github.io/pay",
 	},
 ];

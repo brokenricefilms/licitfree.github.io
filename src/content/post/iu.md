@@ -5,7 +5,7 @@ description: ""
 tags: ["People"]
 ---
 
-![](https://github.com/ongedit/garden/raw/main/IU%20eat%20ramen.png)
+![](https://github.com/licitfree/garden/raw/main/IU%20eat%20ramen.png)
 
 Có thể nói đây là diễn viên yêu thích nhất của tui
 

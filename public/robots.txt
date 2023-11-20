@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.ongedit.com/sitemap-index.xml
+Sitemap: https://www.licitfree.com/sitemap-index.xml

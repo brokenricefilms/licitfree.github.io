@@ -11,7 +11,7 @@ import compress from "astro-compress";
 // https://astro.build/config
 export default defineConfig({
   // ! Please remember to replace the following site property with your own domain
-  site: "https://ongedit.github.io",
+  site: "https://licitfree.github.io",
   markdown: {
     remarkPlugins: [remarkUnwrapImages, remarkReadingTime],
     remarkRehype: {
