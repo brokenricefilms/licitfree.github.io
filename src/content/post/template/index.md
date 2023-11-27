@@ -2,7 +2,7 @@
 title: "template"
 description: ""
 publishDate: "15 Nov 2023"
-tags: ["what i use"]
+tags: ["what i use", "english"]
 coverImage:
   src: "./cover.svg"
   alt: "licit free cover"
