@@ -1,7 +1,7 @@
 ---
 title: "stupid things i do with ko-fi"
 description: ""
-publishDate: "15 Nov 2023"
+publishDate: "27 Nov 2023"
 tags: ["life", "english"]
 coverImage:
   src: "./cover.svg"
