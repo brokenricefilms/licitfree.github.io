@@ -27,16 +27,16 @@
 	},
 	"devDependencies": {
 		"@astrojs/check": "^0.2.1",
-		"@pagefind/default-ui": "^1.0.3",
+		"@pagefind/default-ui": "^1.0.4",
 		"@resvg/resvg-js": "^2.6.0",
 		"@tailwindcss/aspect-ratio": "^0.4.2",
 		"@tailwindcss/typography": "^0.5.10",
 		"@types/eslint": "^8.44.7",
-		"@typescript-eslint/eslint-plugin": "^6.11.0",
-		"@typescript-eslint/parser": "^6.11.0",
+		"@typescript-eslint/eslint-plugin": "^6.13.0",
+		"@typescript-eslint/parser": "^6.13.0",
 		"astro-eslint-parser": "^0.16.0",
 		"autoprefixer": "^10.4.16",
-		"eslint": "^8.53.0",
+		"eslint": "^8.54.0",
 		"eslint-config-prettier": "^9.0.0",
 		"eslint-import-resolver-typescript": "^3.6.1",
 		"eslint-plugin-astro": "^0.29.1",
@@ -44,7 +44,7 @@
 		"eslint-plugin-jsx-a11y": "^6.8.0",
 		"eslint-plugin-prettier": "^5.0.1",
 		"mdast-util-to-string": "^4.0.0",
-		"pagefind": "^1.0.3",
+		"pagefind": "^1.0.4",
 		"postcss": "^8.4.31",
 		"postcss-html": "^1.5.0",
 		"postcss-import": "^15.1.0",
@@ -54,7 +54,7 @@
 		"reading-time": "^1.5.0",
 		"remark-unwrap-images": "^4.0.0",
 		"tailwindcss": "^3.3.5",
-		"typescript": "^5.2.2"
+		"typescript": "^5.3.2"
 	},
 	"packageManager": "pnpm@8.6.1"
 }
