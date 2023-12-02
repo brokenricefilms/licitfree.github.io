@@ -21,7 +21,7 @@ export const siteConfig: SiteConfig = {
 		},
 	},
 	// Include view-transitions: https://docs.astro.build/en/guides/view-transitions/
-	includeViewTransitions: false,
+	includeViewTransitions: true,
 	webmentions: {
 		link: "https://webmention.io/licitfree.github.io/webmention",
 	},
@@ -39,10 +39,10 @@ export const menuLinks: Array<{ title: string; path: string }> = [
 	},
 	{
 		title: "Portfolio",
-		path: "https://licitfree.github.io/portfolio",
+		path: "/portfolio",
 	},
 	{
 		title: "Buy Me a Coffee",
-		path: "https://licitfree.github.io/pay",
+		path: "/pay",
 	},
 ];

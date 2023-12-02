@@ -6,6 +6,7 @@ import sitemap from "@astrojs/sitemap";
 import prefetch from "@astrojs/prefetch";
 import remarkUnwrapImages from "remark-unwrap-images";
 import { remarkReadingTime } from "./src/utils/remark-reading-time";
+import rehypeExternalLinks from "rehype-external-links";
 import compress from "astro-compress";
 
 // https://astro.build/config
@@ -14,6 +15,9 @@ export default defineConfig({
   site: "https://licitfree.github.io",
   markdown: {
     remarkPlugins: [remarkUnwrapImages, remarkReadingTime],
+    rehypePlugins: [
+      [rehypeExternalLinks, { target: "_blank", rel: ["nofollow, noopener, noreferrer"] }],
+    ],
     remarkRehype: {
       footnoteLabelProperties: {
         className: [""]
