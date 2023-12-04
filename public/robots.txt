@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://licitfree.github.io/sitemap-index.xml
