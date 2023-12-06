@@ -2,6 +2,7 @@
 title: "Chuyện transcode: Davinci Resolve vs Shutter Encoder vs HandBrake"
 pubDatetime: 2023-12-6T04:06:31Z
 featured: false
+featured: true
 tags:
   - vietnamese
   - editing
