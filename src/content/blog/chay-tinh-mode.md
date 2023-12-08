@@ -2,7 +2,6 @@
 title: "Chay tịnh mode"
 pubDatetime: 2023-6-26T04:06:31Z
 description: "Bí tịnh tiên môn"
-featured: true
 tags:
   - vietnamese
   - health

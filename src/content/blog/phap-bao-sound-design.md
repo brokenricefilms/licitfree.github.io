@@ -1,6 +1,7 @@
 ---
 title: Pháp bảo Sound Design
 pubDatetime: 2023-12-4T04:06:31Z
+featured: true
 tags:
   - vietnamese
   - editing
