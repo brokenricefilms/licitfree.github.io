@@ -1,4 +1,1 @@
-# licitfree website
-
-
-licitfree.github.io
+edit [index.mkd](./index.mkd)
